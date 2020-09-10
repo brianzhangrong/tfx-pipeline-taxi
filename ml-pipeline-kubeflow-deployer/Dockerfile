@@ -1,0 +1,1 @@
+FROM gcr.io/ml-pipeline/ml-pipeline-kubeflow-deployer:d4960d3379af4735fd04dc7167fab5fff82d0f22
